@@ -1,0 +1,16 @@
+.weather-input-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.weather-input{
+    width: 60;
+    margin-right: 10px;
+}
+
+.weather-button{
+    background-color: #1090ff;
+    color: white;
+    border-radius: 15px;
+}

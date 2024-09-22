@@ -1,0 +1,13 @@
+.weather-app-container{
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #e6f7ff;
+    border-radius: 10px;
+}
+
+.weather-title{
+    text-align: center;
+    color: #001529;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
